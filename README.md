@@ -7,3 +7,7 @@ In my nearly 17 years as a copy editor and writer, I've edited thousands of page
 I discovered a love for Markdown and other types of tech writing-specific language and formatting when I started at Linux Academy in 2018. (Although I could also admit to learning HTML basics on MySpace in the early 2000s, like so many other of my peers.)
 
 My lifelong love of words and learning dovetail perfectly in the realm of tech writing, and I look forward to continuing on this journey.
+
+### Contact Me
+
+To learn more about me and the winding path that's brought me here, visit my [LinkedIn profile](https://www.linkedin.com/in/ashleyemert/).
